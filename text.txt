@@ -2,3 +2,8 @@ Hello there
 Mirko je drzý a gay
 testing rebase vetva pokus
 druha zmena po druhy krat
+Hello
+Mirko je drzý
+
+zmena na main
+druha zmena na main
